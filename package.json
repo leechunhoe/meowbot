@@ -1,0 +1,15 @@
+{
+  "name": "simplebots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simplebot.js",
+  "dependencies": {
+    "keypress": "*",
+    "johnny-five": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
